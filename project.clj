@@ -2,6 +2,7 @@
   :description "Realtime chat by utilizing http-kit's websocket support"
   :dependencies [[org.clojure/clojure "1.7.0"]
                  [ring/ring-core "1.4.0"]
+                 [javax.servlet/servlet-api "2.5"]
                  [compojure "1.4.0"]
                  [org.clojure/data.json "0.2.6"]
                  [org.clojure/tools.logging "0.3.1"]

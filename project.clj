@@ -1,4 +1,4 @@
-(defproject org.httpkit/chat-websocket "1.0"
+(defproject org.httpkit/chat-websocket "1.1"
   :description "Realtime chat by utilizing http-kit's websocket support"
   :dependencies [[org.clojure/clojure "1.7.0"]
                  [ring/ring-core "1.4.0"]
